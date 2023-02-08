@@ -1,1 +1,1 @@
-second Read me
+shell bascics
